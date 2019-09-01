@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/test/TestInterface.java" line="58" />
+    <bookmark url="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/test/TestInterface.java" line="41" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f95a6b3e-00f7-4f6f-945c-79d1a417e6b9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Strategy/target/" />
+    <ignored path="$PROJECT_DIR$/proxyDetail/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/InitialContext.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Cache.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/ServiceLocator.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/ServiceLocatorPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/StudentVO.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/StudentBO.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/TransferObjectPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gateAwayCompent</find>
+      <find>document</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/Keyboard.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/Monitor.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/Mouse.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/Computer.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/ComputerPartVisitor.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/ComputerPartDisplayVisitor.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/VisitorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/MVC/Student.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/MVC/StudentView.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/MVC/MVCPatternDemo.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/MVC/StudentController.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/EJBService.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/BusinessService.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/JMSService.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/BusinessLookUp.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/BusinessDelegate.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/Client.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/BusinessDelegatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/DependentObject1.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/DependentObject2.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/CoarseGrainedObject.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/CompositeEntity.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/Client.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/CompositeEntityPatternDemo.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/DataAccessObject/Student.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/DataAccessObject/StudentDao.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/DataAccessObject/StudentDaoImpl.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/DataAccessObject/DaoPatternDemo.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/HomeView.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/StudentView.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/Dispatcher.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/FrontController.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/FrontControllerPatternDemo.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/Filter.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/AuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/DebugFilter.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/Target.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/FilterChain.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/FilterManager.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/Client.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/InterceptingFilterDemo.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service1.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service2.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/InitialContext.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Cache.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/ServiceLocator.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/ServiceLocatorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/StudentVO.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/StudentBO.java" />
+        <option value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/TransferObjectPatternDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Strategy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Strategy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/strategy/myInterface" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shawn.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\hasee\IdeaProjects\designPatterns\Strategy\src\main\java\com\shawn\desigener\strategy\myInterface" />
+      <recent name="D:\Users\hasee\IdeaProjects\designPatterns\Strategy\src\main\java\com\shawn\util" />
+      <recent name="D:\Users\hasee\IdeaProjects\designPatterns\Strategy\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServiceLocatorPatternDemo">
+    <configuration name="CompositeEntityPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shawn.desigener.desigenernew.CompositeEntity.CompositeEntityPatternDemo" />
+      <module name="Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shawn.desigener.desigenernew.CompositeEntity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shawn.desigener.desigenernew.DataAccessObject.DaoPatternDemo" />
+      <module name="Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shawn.desigener.desigenernew.DataAccessObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontControllerPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shawn.desigener.desigenernew.FrontController.FrontControllerPatternDemo" />
+      <module name="Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shawn.desigener.desigenernew.FrontController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterceptingFilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shawn.desigener.desigenernew.InterceptingFilter.InterceptingFilterDemo" />
+      <module name="Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shawn.desigener.desigenernew.InterceptingFilter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceLocatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shawn.desigener.desigenernew.ServiceLocator.ServiceLocatorPatternDemo" />
+      <module name="Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shawn.desigener.desigenernew.ServiceLocator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServiceLocatorPatternDemo" />
+        <item itemvalue="Application.InterceptingFilterDemo" />
+        <item itemvalue="Application.FrontControllerPatternDemo" />
+        <item itemvalue="Application.DaoPatternDemo" />
+        <item itemvalue="Application.CompositeEntityPatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f95a6b3e-00f7-4f6f-945c-79d1a417e6b9" name="Default Changelist" comment="" />
+      <created>1561711844110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561711844110</updated>
+      <workItem from="1561711847719" duration="12910000" />
+      <workItem from="1561959046572" duration="15690000" />
+      <workItem from="1562234862450" duration="11915000" />
+      <workItem from="1562472479079" duration="4146000" />
+      <workItem from="1562570831560" duration="10410000" />
+      <workItem from="1562723663079" duration="2629000" />
+      <workItem from="1563080477223" duration="1813000" />
+      <workItem from="1563365150318" duration="1583000" />
+      <workItem from="1563447047037" duration="4674000" />
+      <workItem from="1563538173202" duration="4748000" />
+      <workItem from="1563587114153" duration="3704000" />
+      <workItem from="1563596024578" duration="11931000" />
+      <workItem from="1563701649768" duration="6888000" />
+      <workItem from="1564140534973" duration="850000" />
+      <workItem from="1564404225847" duration="316000" />
+      <workItem from="1564404693679" duration="1957000" />
+      <workItem from="1564471802897" duration="19000" />
+      <workItem from="1564894781296" duration="2616000" />
+      <workItem from="1565104214493" duration="4617000" />
+      <workItem from="1565770241445" duration="4394000" />
+      <workItem from="1566267839807" duration="10937000" />
+      <workItem from="1566298714138" duration="5133000" />
+      <workItem from="1566350148732" duration="9480000" />
+      <workItem from="1566438038518" duration="932000" />
+      <workItem from="1567338598561" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134597000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="619" y="58" width="298" height="707" id="Project" order="0" visible="true" weight="0.24865952" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28288543" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39321074" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.6350778" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="16" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.18900804" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.12734585" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Alibaba Log Console" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/controller/TestController.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/strategy/services/StrategyService.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/Executor/Base.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/Executor/Base.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/Executor/Base.java</url>
+          <line>5</line>
+          <properties class="com.shawn.Executor.Base" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/ComputerPartDisplayVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Visitor/VisitorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.shawn.desigener.desigenernew.MVC.StudentController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.shawn.desigener.desigenernew.MVC.StudentController</OriginalElement>
+          <nodes>
+            <node x="" y="">com.shawn.desigener.desigenernew.MVC.StudentController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="105.0" y="19.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.shawn.desigener.desigenernew.MVC.MVCPatternDemo">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.shawn.desigener.desigenernew.MVC.MVCPatternDemo</OriginalElement>
+          <nodes>
+            <node x="" y="">com.shawn.desigener.desigenernew.MVC.MVCPatternDemo</node>
+            <node x="" y="">com.shawn.desigener.desigenernew.MVC.StudentController</node>
+            <node x="" y="">com.shawn.desigener.desigenernew.MVC.Student</node>
+            <node x="" y="">com.shawn.desigener.desigenernew.MVC.StudentView</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="105.0" y="144.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/MVC/MVCPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/MVC/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/MVC/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/MVC/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.shawn.desigener.desigenernew.Strategy.Context">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.shawn.desigener.desigenernew.Strategy.Context</OriginalElement>
+          <nodes>
+            <node x="" y="">com.shawn.desigener.desigenernew.Strategy.OperationAdd</node>
+            <node x="" y="">com.shawn.desigener.desigenernew.Strategy.OperationSubstract</node>
+            <node x="" y="">com.shawn.desigener.desigenernew.Strategy.Strategy</node>
+            <node x="" y="">com.shawn.desigener.desigenernew.Strategy.Test</node>
+            <node x="" y="">com.shawn.desigener.desigenernew.Strategy.Context</node>
+            <node x="" y="">com.shawn.desigener.desigenernew.Strategy.OperationMultiply</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="314.0" y="105.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/EJBService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/BusinessService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/JMSService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/BusinessLookUp.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/BusinessDelegate.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/BusinessDelegate/BusinessDelegatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/CoarseGrainedObject.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/CompositeEntity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/DependentObject1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/DependentObject2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/CompositeEntity/CompositeEntityPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/DataAccessObject/Student.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/DataAccessObject/StudentDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/DataAccessObject/StudentDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/DataAccessObject/DaoPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/Bridge/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/HomeView.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/FrontController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/FrontController/FrontControllerPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/DebugFilter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/Target.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/FilterManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.6/druid-1.1.6.jar!/com/alibaba/druid/filter/FilterManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/InterceptingFilter/InterceptingFilterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Service2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/InitialContext.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/Cache.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/ServiceLocator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/ServiceLocator/ServiceLocatorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/StudentVO.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/StudentBO.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/src/main/java/com/shawn/desigener/desigenernew/TransferObject/TransferObjectPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

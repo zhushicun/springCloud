@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastDFS" />
+        <module name="userCenter" />
+        <module name="orderCenter" />
+        <module name="COMMONS" />
+        <module name="zuulGateAway" />
+        <module name="members" />
+        <module name="serverOauth" />
+        <module name="util" />
+        <module name="order" />
+        <module name="apiUser" />
+        <module name="apiMember" />
+        <module name="common" />
+        <module name="apiOrder" />
+        <module name="memberCenter" />
+        <module name="api" />
+        <module name="Eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apiservices" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="commons" target="1.8" />
+      <module name="fastDfs" target="1.8" />
+      <module name="gateAway" target="1.8" />
+      <module name="member" target="1.8" />
+      <module name="springSecurity" target="1.8" />
+      <module name="SpringSecurity" target="1.8" />
+      <module name="Test" target="1.8" />
+      <module name="thisIsTest" target="1.8" />
+      <module name="userCenter" target="1.8" />
+      <module name="zuulGateAway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="COMMONS" options="-parameters" />
+      <module name="Eureka" options="-parameters" />
+      <module name="api" options="-parameters" />
+      <module name="apiMember" options="-parameters" />
+      <module name="apiOrder" options="-parameters" />
+      <module name="apiServices" options="" />
+      <module name="apiUser" options="-parameters" />
+      <module name="apiservices" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="fastDFS" options="-parameters" />
+      <module name="member" options="-parameters" />
+      <module name="memberCenter" options="-parameters" />
+      <module name="members" options="-parameters" />
+      <module name="order" options="-parameters" />
+      <module name="orderCenter" options="-parameters" />
+      <module name="serverOauth" options="-parameters" />
+      <module name="thisIsTest" options="-parameters" />
+      <module name="userCenter" options="-parameters" />
+      <module name="util" options="-parameters" />
+      <module name="zuulGateAway" options="-parameters" />
+    </option>
+  </component>
+</project>
